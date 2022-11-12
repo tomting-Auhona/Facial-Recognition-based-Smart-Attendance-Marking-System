@@ -1,0 +1,8 @@
+Libraries used in the code:
+numpy - to calculate distances between camera and face and other uses
+face_recognition - for face recognition
+cv2 - for face recognition
+os - to get the file paths and directory and save in variables
+datetime - for capturing date and time and displaying it
+pyttsx3 - to make the computer speak
+tkinter - the frontend GUI
