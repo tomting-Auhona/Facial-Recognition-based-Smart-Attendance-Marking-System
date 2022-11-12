@@ -1,8 +1,5 @@
 # Facial-Recognition-based-Smart-Attendance-Marking-System
 
-Kindly do not use this project without permission in any youtube videos or other social media. Permission can be asked on my youtube channel "Auhona Chakraborty".
-
-
 This is a project that uses facial recognition to mark attendance.
 
 Home screen
